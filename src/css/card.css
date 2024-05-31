@@ -1,0 +1,28 @@
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 20px;
+    gap: 20px;
+}
+
+.title_card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.content_card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content_card p{
+    color: rgb(35, 35, 35);
+}

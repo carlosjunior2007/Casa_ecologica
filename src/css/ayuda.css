@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root{
+    --fuentePricipal: 'Poppins';
+    --fuenteSecundaria: 'Arial';
+    --verdeFuerte: #0c8006;
+    --verdeSemifuerte: #3b9f30;
+    --verdeMedio: #6abf5b;
+    --verdeAntesdeBajito: #9adf85;
+    --verdeBajito: #c9ffaf;
+    --colorBlanco: #ffffff;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sec-Titulos{
+    height: calc(100vh - 76px);/*primera seccion*/
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.spanvolteado{
+    writing-mode: vertical-lr;
+   font-size: clamp(0.65rem, -0.1rem + 2.2vw, 1.6rem);
+    transform: rotate(180deg);
+    -webkit-writing-mode: vertical-lr;
+    -ms-writing-mode: vertical-lr;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+}
+.titulo{
+    font-family: var(--fuentePricipal);
+    text-align: center;
+    font-size: clamp(8rem, 2.143rem + 11.619vw, 12rem);
+    font-weight: 300;
+}
+.div-content{/*ancho del contenedor del titulo*/
+    width: 60%;
+}
+.div-elementos{/*ancho del contenedor de los tres cuadritos*/
+    display: flex;
+    width: 40%;
+    /* margin: 10px; */
+    flex-direction: column;
+}
+.elemento1,
+.elemento2,
+.elemento3{/*e*/
+    text-align: center;
+    border-radius: 15px;
+    width: 300px;/*ancho cuadritos a la derecha de el titulo*/
+    padding: 10px 20px;
+    height: auto;
+    font-size: clamp(1rem, -0.143rem + 1.714vw, 2rem);
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+/* .elemento1,
+.elemento3{
+    margin: 0 0 0 -100px;
+} */
+.h2ayuda{/*h2 de esta pagina*/
+    font-family: var(--fuentePricipal);
+    font-weight: 200;
+}
+.elemento1{
+   background: var(--verdeAntesdeBajito);/*cajitas de materiales*/
+}
+.elemento2{
+    margin: -20px 0;
+    background: var(--verdeMedio);
+    justify-self: end;
+    align-self: end;
+}
+.elemento3{
+    background: var(--verdeFuerte);
+}
+/*segunda seccion*/
+.sec-elementos{
+    width: 100%;
+    height: 100vh;
+}
+.cajas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    gap: 20px;
+    border-radius: 10px;
+    width: 80%;
+    padding: 15px 30px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.cajas:nth-child(1){
+    background: var(--verdeBajito);
+}
+.cajas:nth-child(2){
+    background: var(--verdeAntesdeBajito);
+}
+.cajas:nth-child(3){
+    background: var(--verdeMedio) ;
+}
+.imagen{
+    width: 100%;
+    /* height: 18rem; */
+    object-fit: cover;
+    object-position: center;
+    margin-top: -50px;
+}
+.caja1, .caja2, .caja3{/*cajas de informacion*/
+    margin-top: 7rem;
+}
+.imagen{
+    width: 100%;
+}
+.parrafosA{
+    width: 50%;
+}
+.letrap{
+    font-family: var(--fuenteSecundaria);/*parrafos*/
+    line-height: 1.45;
+}
+.letrap::first-letter{
+    font-size: 2rem;
+}
+.sec-Titulos{
+    position: relative;
+}
+.sec-elementos{
+    position: relative;
+}
+.svg{/*ramitas*/
+    position: absolute;
+    width: 200px;
+    height: 400px;
+    z-index: -1;
+    width: 100%;
+    height: auto;
+}
+.svg1{
+    top: -30%;
+    left: 0%;
+}
+.svg3{
+    top: 0%;
+    right: 0%;
+}
+.svg4{
+    top: 0%;
+    left: 0%;
+}
+.svg5{
+    top: 80%;
+    right: 0%;
+}
+/* Media Queries para responsividad */
+@media (max-width: 768px) {
+    .sec-Titulos {
+        flex-direction: column;
+    }
+    .titulo {
+        font-size: clamp(7rem, 2.143rem + 5vw, 5rem);
+    }
+    .div-elementos {
+        flex-direction: column;
+        width: 100%;
+        margin: none;
+    }
+    .elemento1, .elemento2, .elemento3 {
+        width: 80%;
+        margin: 10px auto;
+    }
+    .cajas {
+        width: 87%;
+        flex-direction: column;
+        margin: none;
+    }
+    .spanvolteado{
+        font-size: clamp(0.65rem, -0.1rem + 2vw, 2rem);
+    }
+
+}
+
+@media (max-width: 480px) {
+    .titulo {
+        font-size: clamp(3rem, 4.143rem + 3vw, 5rem);
+    }
+    .elemento1, .elemento2, .elemento3 {
+        width: 95%;
+    }
+    .cajas {
+        margin: none;
+        width: 83%;
+    }
+    .div-elementos {
+        flex-direction: column;
+        width: 90%;
+        align-items: center;
+        justify-content: center;
+        margin: none;
+    }
+}

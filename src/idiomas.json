@@ -1,0 +1,374 @@
+{
+    "ES":{
+        "home":{
+            "titulo":"Casa ecologica",
+            "txt1":"Una casa escologia es una vivienda diseñada y construida con el objetivo de reducir su impacto ambiental, esto puede incluir caracterizticas como la eficiencia energetica, el uso de materiales sostenibles y renovables.",
+            "txt2":"La sobre problacion lleva consigo problemas como el aumento la contaminacion, escasez de recursos naturales en general dificultades para aceder a viviendasymlemas problacional acelera el cambio de la sobre problacion y climatico y extenciones de especies",
+            "cardCaletamientoTitulo":"Calentamiento global",
+            "cardCaletamientoDescrip":"El cambio climatico ya afecta a la salud de muchos maneras por ejemplo provocando muerte y enfermedades pro fenomenos meteorologicos.",
+            "cardTasaTitulo":"Mayor tasa de desempleo",
+            "cardTasaDescrip":"En el plano economico, altas tasas de desempleo reducen el gasto de los consumidores.",
+            "cardArbolesTitulo":"Tala de arboles",
+            "cardArbolesDescrip":"La falta de bosques ocasiona perdida de habitad de millones de especies por que segun algunas calcula el 20% de animales."
+        },
+        "historia":{
+            "leer": "Leer mas...",
+            "inicio":{
+                "carta_titulo":"Inicio",
+                "titulo":"Formacion del equipo, '3 Brains and 2 Donkeys' ",
+                "txt1":"El primer paso para realizar este proyecto es el equipo y, ¿Como lo hicimos?, pues.... Empezamos buscando candidatos, los mejores que pudimos encontrar, hablando entre nosotros pudimos conseguir a: - Armenta Camarena Carlos Junior (Brain) - Gaxiola Gonzalez Andrea Marili (Brain) - Perez Cedillo Jannel (Brain) - Morales Martinez Antonio Fauricio (Donkey) - Armenta Villafan Maximo Adriano (Donkey)",
+                "txt2":"Una vez teniendo el equipo, empezamos el diseño de nuestra casa ecológica, donde nos basamos en una imagen de una casa de la vida real que se encontraba en la selva para poder crear el diseño de nuestra casa."
+            },
+            "objeto_3d":{
+                "carta_titulo":"Objeto 3d",
+                "titulo":"Casa 3D",
+                "txt1":"Hola, soy Antonio Fabricio, el creador del diseño 3D que viste al ingresar a la pagina. Tu pensaras que soy alguien experto en modelado 3D pero la realidad es que no es asi, simplemente a base de prueba, error, intentos, videos e internet, pude lograr ese diseño. Tampoco fue algo que me llevo poco tiempo, relacionarme con este nuevo ambito fue muy pero que muy dificil, por lo que me llevo bastante tiempo hacer este sencillo diseño.",
+                "txt2":"Como pueden ver, en la foto de arriba, ese fue uno de mis primeros intentos de el diseño de nuestra casa, lo que, a simple vista, es muy feo. Tabien podemos observar que 'Mi Negra Hermosa' (Jannel), me acompaño durante este proceso animandome.",
+                "txt3":"En esta segunda foto, pueden ver los intentos de vigas que hice para el diseño, los cuales eran muy muy feos. Asi que pues los tuve que cambiar, pero como me habia desesperado, preferi hacerlo todo de nuevo, lo cual nos lleva al siguiente intento.",
+                "txt4":"Como pueden ver, este intento, ya era algo mejor pero no se parecia nada a nuestro diseño 2D que hicimos en clase de fisica, entonces tuve que intentar una vez mas.",
+                "txt5":"En este intento empece a modelar la casa por pisos, como pueden ver, hice el primer piso con las ventanas.",
+                "txt6":"Ya en este intento, el diseño de la casa, se veia muchisimo mejor, aunque paso un lapso de tiempo de mas o menos 1 o 2 dias para que pudiera terminar el segundo piso junto al techo y las vigas.",
+                "txt7":"Aqui finalmente la casa tomo una forma, y, como era de esperarse, despues de toda una semana, el diseño 3D se parecia lo mas que pude hacer que se pareciera al diseño 2D",
+                "txt8":"Al final este fue el resultado de mi esfuerzo de dos semanas."
+            },
+            "construccion":{
+                "carta_titulo":"CONSTRUCCION",
+                "titulo":"Construccion de la Casa Ecologica"
+            },
+            "diseno_pg":{
+                "carta_titulo":"DISEÑO DE LA PAGINA",
+                "titulo":"Diseño de la pagina web",
+                "txt1":"Empezamos haciendo bocetos de lo que debia tener nuestra pagina y pensando en los requerimientos de nuestra pagina web, cual es el proposito de nuestra pagina?, que requeriemtos tenemos que cumplir? todas estas y mas fueron las preguntas que tuvimos que contestar el momento de desarollar esta pagina web...",
+                "txt2":"Empezamos ah elaborar la pagina teniendo en cuenta las reglas de UI/UX claramente y creando el codigo de la pagina que ahorra pueden ver , con la ayuda de todos los integrantes del equipo. Usamos el lenguaje llamado react para poder crear esta pagina tan avanzada que nos ayudo un poco y reducir el trabajando"
+            },
+            "pagina":{
+                "carta_titulo":"PAGINA WEB",
+                "titulo":"Resultado de la pagina web"
+            },
+            "conclucion":{
+                "carta_titulo":"CONCLUSION",
+                "titulo":"Conclusión del proyecto",
+                "txt1":"Trabajar en equipo para este proyecto fue una gran experiencia. Aunque a veces nos costó un poco y llegamos a confundirnmos con que hacer, todos pusimos de nuestra parte y colaboramos bien aprendiendo mucho el proceso.",
+                "txt2":"A través del proyecto de la casa ecológica hemos aprendido la importancia de la sostenibilidad y el cuidado del medio ambiente en la contruccion de viviendas. Aprendimos a como útilizar materiales reciclables como el cartón, botellas de plástico, plastilina, pegamentos, entre otros. Y también a ser mas conscientes de nuestro impacto en el medio ambiente y a buscar soluciones creativas y ecológicas en nuestras vidas cotidianas.",
+                "txt3":"Nos quedamos con el aprendizaje de que cada acción cuenta y puede contribuir a un futuro más sostenible para todos."
+            }
+        },
+        "quiz":{
+            "titulo":"Cuestonario Casa Ecologica",
+            "botonRes":"Resultado",
+            "lim":"Limpiar",
+            "pregunta1":{
+                "pregunta":"1.-¿Que material es el mas amigable con el ambiente?",
+                "A":"Plástico",
+                "B":"Madera",
+                "C":"Cemento",
+                "D":"Cartón"
+            },
+            "pregunta2":{
+                "pregunta":"2.-¿Cuál de los siguientes no es un ejemplo de una característica de una casa ecológica?",
+                "A":"Paneles Solares",
+                "B":"Chimenea de Carbón",
+                "C":"Captadores de agua de lluvia",
+                "D":"Jardines"
+            },
+            "pregunta3":{
+                "pregunta":"3.-¿Qué materiales no fueron usados para la casita ecológica?",
+                "A":"Cartón, Plástico",
+                "B":"Baterias, Panel",
+                "C":"Pelota de Volley, Taza de café",
+                "D":"Ninguna de las anteriores"
+            },
+            "pregunta4":{
+                "pregunta":"4.-¿Cuánto tiempo fue necesario para hacer la casa ecológica?",
+                "A":"+6 Meses",
+                "B":"+1 Mes",
+                "C":"+1 Semana",
+                "D":"+1 Año"
+            },
+            "pregunta5":{
+                "pregunta":"5.-¿Cuánto dinero fue invertido en la casa ecológica?",
+                "A":"+2000 Pesos",
+                "B":"+500 Pesos",
+                "C":"+300 Pesos",
+                "D":"+5 Pesos"
+            }
+        },
+        "ayuda":{
+            "titulo":{
+                "pt1":"En que nos",
+                "pt2":"Ayuda"
+            },
+            "cards":{
+                "reutilizables":{
+                    "pt1":"Materiales",
+                    "pt2":"Reutilizables"
+                },
+                "recicables":{
+                    "pt1":"Materiales",
+                    "pt2":"Recicables"
+                },
+                "contaminantes":{
+                    "pt1":"Materiales",
+                    "pt2":"No contaminantes"
+                }
+            },
+            "txt1":"Que puedo hacer para ayudar a nuestro ecosistema, como puedo evitar la contamaniacion y la sobreproblacion?, una de las opciones para ayudar a nuestro escosistema son: Plantar árboles y plantas nativas, Proteger la vida silvestre ,Conservar el agua ,Practicar la agricultura sostenible ,Participar en limpiezas comunitariasm. Estas sin unas de las cosas que pueden hacer pare ayudar a nuestro ecosistema.",
+            "txt2":"Y que ahi de la contaminacion? , bueno con la contaminacion tenemos una de las siguetes opciones para ayudar a nuestro ecosistema con la contaminacion: Reducir, Reutilizar y Reciclar, Usar menos plástico ,Adoptar transporte sostenibles ,Consumir energía responsablemente ,Comprar productos locales y orgánicos.",
+            "txt3":"Y por ultimo que ahi de la sobreproblacion , que podemos hacer para solucionarla o ayudar a nuestro planeta antes de que sea demasiado tarde? , bueno una de las cosas que podemos hacer son las siguentes: Educación y planificación familiar, Empoderamiento de la mujer ,Promover políticas sostenibles. Talvez sientas que estos pasos para ayudar a nuestro planeta son muy dificiles pero te dare unos ejemplos de cosas que puedes hacer un tu vida contidiana para ayudar a nuestro planeta: Consumo responsable, Educación ambiental, Voluntariado."
+        },
+        "navegacion":{
+            "titulo":"Casa Ecologica",
+            "historia":"Historia",
+            "quiz":"Quiz",
+            "Ayuda":"Ayuda"
+        }
+    },
+    "EN":{
+        "home":{
+            "titulo":"Ecological House",
+            "txt1":"An ecological house is a home designed and built with the aim of reducing its environmental impact, this can include features such as energy efficiency, the use of sustainable and renewable materials.",
+            "txt2":"Overpopulation brings with it problems such as increased pollution, scarcity of natural resources, in general, difficulties in accessing housing, population symbols accelerate the change in overpopulation and climate, and extensions of species.",
+            "cardCaletamientoTitulo":"Global warming",
+            "cardCaletamientoDescrip":"Climate change already affects health in many ways, for example causing death and diseases due to meteorological phenomena.",
+            "cardTasaTitulo":"Higher unemployment rate",
+            "cardTasaDescrip":"On the economic level, high unemployment rates reduce consumer spending.",
+            "cardArbolesTitulo":"tree felling",
+            "cardArbolesDescrip":"The lack of forests causes habitat loss for millions of species, which according to some estimate 20% of animals."
+        },
+        "historia":{
+            "leer": "Read more...",
+            "inicio":{
+                "carta_titulo":"Start",
+                "titulo":"Team formation, '3 Brains and 2 Donkeys'",
+                "txt1": "The first step to carry out this project is the team and, how did we do it? Well.... We started looking for candidates, the best we could find, by talking among ourselves we were able to get: Armenta Camarena Carlos Junior (Brain), Gaxiola Gonzalez Andrea Marili (Brain), Perez Cedillo Jannel (Brain), Morales Martinez Antonio Fauricio (Donkey), Armenta Villafan Maximo Adriano (Donkey)",
+                "txt2":"Once we had the equipment, we began the design of our ecological house, where we based ourselves on an image of a real-life house that was in the jungle to create the design of our house."
+            },
+            "objeto_3d":{
+                "carta_titulo":"3d object",
+                "titulo":"3D House",
+                "txt1":"Hello, I am Antonio Fabricio, the creator of the 3D design that you saw when you entered the page. You will think that I am someone who is an expert in 3D modeling but the reality is that this is not the case, simply based on trial, error, attempts, videos and the internet, I was able to achieve that design. It was not something that took me a short time either, relating to this new field was very, very difficult, so it took me a long time to make this simple design.",
+                "txt2":"As you can see in the photo above, that was one of my first attempts at designing our house, which, at first glance, is very ugly. We can also see that 'Mi Negra Hermosa' (Jannel) accompanied me during this process, encouraging me.",
+                "txt3":"In this second photo, you can see the attempts at beams I made for the design, which were very very ugly. So I had to change them, but since I was desperate, I preferred to do it all over again, which brings us to the next attempt.",
+                "txt4":"As you can see, this attempt was already somewhat better but it didn't look anything like our 2D design that we did in physics class, so I had to try one more time.",
+                "txt5":"In this attempt I began to model the house by floors, as you can see, I made the first floor with the windows.",
+                "txt6":"Already in this attempt, the design of the house looked much better, although a period of time of more or less 1 or 2 days passed before I could finish the second floor along with the ceiling and the beams.",
+                "txt7":"Here the house finally took shape, and, as expected, after a whole week, the 3D design looked as close as I could make it to the 2D design.",
+                "txt8":"In the end this was the result of my two-week effort."
+            },
+            "construccion":{
+                "carta_titulo":"CONSTRUCTION",
+                "titulo":"Construction of the Ecological House"
+            },
+            "diseno_pg":{
+                "carta_titulo":"PAGE LAYOUT",
+                "titulo":"Website design",
+                "txt1":"We started by making sketches of what our page should have and thinking about the requirements of our website, what is the purpose of our page? What requirements do we have to meet? All these and more were the questions we had to answer when developing this website...",
+                "txt2":"We start there by developing the page, taking into account the UI/UX rules clearly and creating the code of the page that you can see, with the help of all the members of the team. We use the language called react to be able to create this very advanced page that helped us a little and reduce the work"
+            },
+            "pagina":{
+                "carta_titulo":"WEB PAGE",
+                "titulo":"Web page result"
+            },
+            "conclucion":{
+                "carta_titulo":"CONCLUSION",
+                "titulo":"Project Conclusion",
+                "txt1":"Working as a team for this project was a great experience. Although sometimes it was a bit difficult and we got confused about what to do, we all did our part and collaborated well, learning a lot about the process.",
+                "txt2":"Through the ecological house project we have learned the importance of sustainability and caring for the environment in the construction of homes. We learned how to use recyclable materials such as cardboard, plastic bottles, plasticine, glue, among others. And also to be more aware of our impact on the environment and to look for creative and ecological solutions in our daily lives.",
+                "txt3":"We are left with the learning that every action counts and can contribute to a more sustainable future for all."
+            }
+        },
+        "quiz":{
+            "titulo":"Ecological House Questionnaire",
+            "botonRes":"Result",
+            "lim":"Clean",
+            "pregunta1":{
+                "pregunta":"1.-¿What material is the most environmentally friendly?",
+                "A":"Plastic",
+                "B":"Wood",
+                "C":"Cement",
+                "D":"Cardboard"
+            },
+            "pregunta2":{
+                "pregunta":"2.-¿Which of the following is not an example of a characteristic of a green house??",
+                "A":"Sola Panels",
+                "B":"Coal Fireplace",
+                "C":"Rain water catchers",
+                "D":"Gardens"
+            },
+            "pregunta3":{
+                "pregunta":"3.-¿What materials were not used for the ecological house?",
+                "A":"Cardboard, Plastic",
+                "B":"Batterys, Panels",
+                "C":"Volley ball, Coffee cup",
+                "D":"None of the above"
+            },
+            "pregunta4":{
+                "pregunta":"4.-¿How long did it take to make the ecological house?",
+                "A":"+6 Months",
+                "B":"+1 Month",
+                "C":"+1 Week",
+                "D":"+1 Year"
+            },
+            "pregunta5":{
+                "pregunta":"5.-¿How much money was invested in the ecological house?",
+                "A":"+2000 Pesos",
+                "B":"+500 Pesos",
+                "C":"+300 Pesos",
+                "D":"+5 Pesos"
+            }
+        },
+        "ayuda":{
+            "titulo":{
+                "pt1":"How does it",
+                "pt2":"help us"
+            },
+            "cards":{
+                "reutilizables":{
+                    "pt1":"Reusable",
+                    "pt2":"Materials"
+                },
+                "recicables":{
+                    "pt1":"Recyclable",
+                    "pt2":"materials"
+                },
+                "contaminantes":{
+                    "pt1":"Non-polluting",
+                    "pt2":"materials"
+                }
+            },
+            "txt1":"What can I do to help our ecosystem, how can I avoid pollution and overpopulation? One of the options to help our ecosystem are: Plant trees and native plants, Protect wildlife, Conserve water, Practice sustainable agriculture, Participate in community cleanups. You are without some of the things you can do to help our ecosystem.",
+            "txt2":"And what about pollution? Well, with pollution we have one of the following options to help our ecosystem with pollution: Reduce, Reuse and Recycle, Use less plastic, Adopt sustainable transportation, Consume energy responsibly, Buy local and organic products.",
+            "txt3":"And finally, regarding overpopulation, what can we do to solve it or help our planet before it is too late? Well, one of the things we can do are the following: Education and family planning, Empowerment of women, Promote sustainable policies. You may feel that these steps to help our planet are very difficult, but I will give you some examples of things you can do in your daily life to help our planet: Responsible consumption, Environmental education, Volunteering."
+        },
+        "navegacion":{
+            "titulo":"Ecological House",
+            "historia":"History",
+            "quiz":"Quiz",
+            "Ayuda":"Help"
+        }
+    },
+    "DE":{
+        "home":{
+            "titulo":"Ökologisches Haus",
+            "txt1":"Ein ökologisches Haus ist ein Haus, das mit dem Ziel entworfen und gebaut wurde, seine Auswirkungen auf die Umwelt zu reduzieren. Dazu können Merkmale wie Energieeffizienz und die Verwendung nachhaltiger und erneuerbarer Materialien gehören.",
+            "txt2":"Überbevölkerung bringt Probleme wie erhöhte Umweltverschmutzung, Knappheit natürlicher Ressourcen und allgemein Schwierigkeiten beim Zugang zu Wohnraum mit sich, Bevölkerungssymbole beschleunigen den Wandel der Überbevölkerung und des Klimas sowie die Ausbreitung von Arten.",
+            "cardCaletamientoTitulo":"Globale Erwärmung",
+            "cardCaletamientoDescrip":"Der Klimawandel wirkt sich bereits in vielerlei Hinsicht auf die Gesundheit aus und führt beispielsweise zu Todesfällen und Krankheiten aufgrund meteorologischer Phänomene.",
+            "cardTasaTitulo":"Höhere Arbeitslosenquote",
+            "cardTasaDescrip":"Auf wirtschaftlicher Ebene verringern hohe Arbeitslosenquoten die Konsumausgaben.",
+            "cardArbolesTitulo":"Baumfällen",
+            "cardArbolesDescrip":"Der Mangel an Wäldern führt zum Verlust des Lebensraums für Millionen von Arten, von denen einige Schätzungen zufolge 20 % der Tiere ausmachen."
+        },
+        "historia":{
+            "leer": "Mehr lesen...",
+            "inicio":{
+                "carta_titulo":"Start",
+                "titulo":"Teambildung, „3 Gehirne und 2 Esel“",
+                "txt1":"Der erste Schritt zur Umsetzung dieses Projekts ist das Team und wie haben wir das gemacht? Nun... Wir haben nach den besten Kandidaten gesucht, die wir finden konnten, und durch Gespräche untereinander konnten wir Folgendes gewinnen: - Armenta Camarena Carlos Junior (Gehirn) – Gaxiola Gonzalez Andrea Marili (Gehirn) – Perez Cedillo Jannel (Gehirn) – Morales Martinez Antonio Fauricio (Esel) – Armenta Villafan Maximo Adriano (Esel)",
+                "txt2":"Sobald wir die Ausrüstung hatten, begannen wir mit dem Entwurf unseres ökologischen Hauses, wobei wir uns bei der Gestaltung unseres Hauses an einem Bild eines realen Hauses im Dschungel orientierten."
+            },
+            "objeto_3d":{
+                "carta_titulo":"3D-Objekt",
+                "titulo":"3D-Haus",
+                "txt1":"Hallo, ich bin Antonio Fabricio, der Schöpfer des 3D-Designs, das Sie beim Betreten der Seite gesehen haben. Sie werden denken, dass ich jemand bin, der ein Experte für 3D-Modellierung ist, aber die Realität ist, dass dies nicht der Fall ist. Durch einfaches Ausprobieren, Versuche, Videos und das Internet konnte ich dieses Design erreichen. Es hat mich auch nicht zu kurz gekostet, der Einstieg in dieses neue Gebiet war sehr, sehr schwierig, daher hat es lange gedauert, bis ich dieses einfache Design erstellt habe.",
+                "txt2":"Wie Sie auf dem Foto oben sehen können, war das einer meiner ersten Versuche, unser Haus zu entwerfen, das auf den ersten Blick sehr hässlich ist. Wir können auch sehen, dass „Mi Negra Hermosa“ (Jannel) mich in diesem Prozess begleitet und ermutigt hat.",
+                "txt3":"Auf diesem zweiten Foto können Sie die Balkenversuche sehen, die ich für den Entwurf gemacht habe, die sehr, sehr hässlich waren. Also musste ich sie wechseln, aber da ich verzweifelt war, habe ich es lieber noch einmal gemacht, was uns zum nächsten Versuch bringt.",
+                "txt4":"Wie Sie sehen, war dieser Versuch schon etwas besser, aber er sah überhaupt nicht so aus wie unser 2D-Entwurf, den wir im Physikunterricht gemacht hatten, also musste ich es noch einmal versuchen.",
+                "txt5":"Bei diesem Versuch begann er, das Haus nach Stockwerken zu modellieren. Wie Sie sehen können, habe ich das erste Stockwerk mit den Fenstern gestaltet.",
+                "txt6":"Schon bei diesem Versuch sah der Entwurf des Hauses viel besser aus, obwohl es mehr oder weniger 1 bis 2 Tage verging, bis ich den zweiten Stock samt Decke und Balken fertigstellen konnte.",
+                "txt7":"Hier nahm das Haus endlich Gestalt an und wie erwartet kam der 3D-Entwurf nach einer ganzen Woche dem 2D-Entwurf so nahe wie möglich.",
+                "txt8":"Letztendlich war dies das Ergebnis meiner zweiwöchigen Bemühungen."
+            },
+            "construccion":{
+                "carta_titulo":"KONSTRUKTION",
+                "titulo":"Bau des Ökologischen Hauses"
+            },
+            "diseno_pg":{
+                "carta_titulo":"SEITENLAYOUT",
+                "titulo":"Website design",
+                "txt1":"Wir begannen damit, Skizzen darüber anzufertigen, was unsere Seite haben sollte, und überlegten, welche Anforderungen unsere Website erfüllen sollte. Welche Anforderungen müssen wir erfüllen? All diese und noch mehr Fragen mussten wir bei der Entwicklung dieser Website beantworten...",
+                "txt2":"Wir beginnen dort mit der Entwicklung der Seite, berücksichtigen klar die UI/UX-Regeln und erstellen mit Hilfe aller Teammitglieder den Code der Seite, den Sie sehen können. Wir verwenden die Sprache namens „React“, um diese sehr fortgeschrittene Seite erstellen zu können, die uns ein wenig geholfen und die Arbeit reduziert hat"
+            },
+            "pagina":{
+                "carta_titulo":"WEBSITE",
+                "titulo":"Website-Ergebnis"
+            },
+            "conclucion":{
+                "carta_titulo":"ABSCHLUSS",
+                "titulo":"Projektabschluss",
+                "txt1":"Die Zusammenarbeit im Team bei diesem Projekt war eine tolle Erfahrung. Obwohl es manchmal etwas schwierig war und wir nicht wussten, was wir tun sollten, haben wir alle unseren Teil dazu beigetragen, gut zusammengearbeitet und viel über den Prozess gelernt.",
+                "txt2":"Durch das ökologische Hausprojekt haben wir gelernt, wie wichtig Nachhaltigkeit und Umweltschutz beim Bau von Häusern sind. Wir haben gelernt, wie man recycelbare Materialien wie Pappe, Plastikflaschen, Plastilin, Kleber und andere verwendet. Und auch, um uns unserer Auswirkungen auf die Umwelt bewusster zu werden und nach kreativen und ökologischen Lösungen für unser tägliches Leben zu suchen.",
+                "txt3":"Uns bleibt die Erkenntnis, dass jede Aktion zählt und zu einer nachhaltigeren Zukunft für alle beitragen kann."
+            }
+        },
+        "quiz":{
+            "titulo":"Ökologischer Hausfragebogen",
+            "botonRes":"Ergebnis",
+            "lim":"Sauber",
+            "pregunta1":{
+                "pregunta":"1.-¿Welches Material ist das umweltfreundlichste?",
+                "A":"Plastik",
+                "B":"Holz",
+                "C":"Zement",
+                "D":"Karton"
+            },
+            "pregunta2":{
+                "pregunta":"2.-¿Welches der folgenden Merkmale ist kein Beispiel für ein Merkmal eines Gewächshauses??",
+                "A":"Solarplatten",
+                "B":"Kohlekamin",
+                "C":"Regenwasserfänger",
+                "D":"Gardens"
+            },
+            "pregunta3":{
+                "pregunta":"3.-¿Welche Materialien wurden für das Ökohaus nicht verwendet?",
+                "A":"Karton, Kunststoff",
+                "B":"Batterien, Panel",
+                "C":"Volleyball, Kaffeetasse",
+                "D":"Nichts des oben Genannten"
+            },
+            "pregunta4":{
+                "pregunta":"4.-¿Wie viel Zeit hat es gedauert, das ökologische Haus zu bauen?",
+                "A":"+6 Monate",
+                "B":"+1 Monat",
+                "C":"+1 Woche",
+                "D":"+1 Jahr"
+            },
+            "pregunta5":{
+                "pregunta":"5.-¿Wie viel Geld wurde in das Ökohaus investiert?",
+                "A":"+2000 Pesos",
+                "B":"+500 Pesos",
+                "C":"+300 Pesos",
+                "D":"+5 Pesos"
+            }
+        },
+        "ayuda":{
+            "titulo":{
+                "pt1":"Wie hilft es",
+                "pt2":"uns"
+            },
+            "cards":{
+                "reutilizables":{
+                    "pt1":"Wiederverwendbare",
+                    "pt2":"Materialien"
+                },
+                "recicables":{
+                    "pt1":"Recycelbare",
+                    "pt2":"Materialien"
+                },
+                "contaminantes":{
+                    "pt1":"Umweltfreundliche",
+                    "pt2":"Materialien"
+                }
+            },
+            "txt1":"Was kann ich tun, um unserem Ökosystem zu helfen, wie kann ich Umweltverschmutzung und Überbevölkerung vermeiden? Eine der Möglichkeiten, unserem Ökosystem zu helfen, sind: Bäume und einheimische Pflanzen pflanzen, Wildtiere schützen, Wasser sparen, nachhaltige Landwirtschaft betreiben, sich an Aufräumarbeiten in der Gemeinde beteiligen. Ihnen fehlen einige der Dinge, die Sie tun können, um unserem Ökosystem zu helfen.",
+            "txt2":"Und was ist mit der Umweltverschmutzung? Nun, im Hinblick auf die Umweltverschmutzung haben wir eine der folgenden Optionen, um unserem Ökosystem bei der Verschmutzung zu helfen: Reduzieren, wiederverwenden und recyceln, weniger Plastik verwenden, nachhaltige Transportmittel einführen, Energie verantwortungsbewusst verbrauchen, lokale und biologische Produkte kaufen.",
+            "txt3":"Und schließlich: Was können wir im Hinblick auf die Überbevölkerung tun, um das Problem zu lösen oder unserem Planeten zu helfen, bevor es zu spät ist? Nun, eines der Dinge, die wir tun können, ist Folgendes: Bildung und Familienplanung, Stärkung der Frauen, Förderung nachhaltiger Richtlinien. Sie denken vielleicht, dass diese Schritte, um unserem Planeten zu helfen, sehr schwierig sind, aber ich werde Ihnen einige Beispiele dafür geben, was Sie in Ihrem täglichen Leben tun können, um unserem Planeten zu helfen: Verantwortungsvoller Konsum, Umwelterziehung, Freiwilligenarbeit."
+        },
+        "navegacion":{
+            "titulo":"Ökologisches Haus",
+            "historia":"Geschichte",
+            "quiz":"Quiz",
+            "Ayuda":"Hilfe"
+        }
+    }
+}
